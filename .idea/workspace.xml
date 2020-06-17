@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="569dbd70-d425-4626-b0e0-2ba36668a870" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Music Advisor/task/Music_Advisor-task_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Music Advisor/task/Music_Advisor-task_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Music Advisor/task/Music_Advisor-task_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Music Advisor/task/Music_Advisor-task_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ctLi6MC1Zi6JdzAulCy9vJJCFc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="569dbd70-d425-4626-b0e0-2ba36668a870" name="Default Changelist" comment="" />
+      <created>1591343066884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591343066884</updated>
+      <workItem from="1591343079824" duration="1000000" />
+      <workItem from="1591359409060" duration="1099000" />
+      <workItem from="1591431009082" duration="633000" />
+      <workItem from="1591431675281" duration="1312000" />
+      <workItem from="1591444217555" duration="1019000" />
+      <workItem from="1591494056275" duration="1984000" />
+      <workItem from="1591508270136" duration="5087000" />
+      <workItem from="1591584222562" duration="14102000" />
+      <workItem from="1591613382959" duration="625000" />
+      <workItem from="1591671299640" duration="1805000" />
+      <workItem from="1591701574081" duration="589000" />
+      <workItem from="1591702776045" duration="206000" />
+      <workItem from="1591703003353" duration="1116000" />
+      <workItem from="1591788815984" duration="1489000" />
+      <workItem from="1591841829490" duration="826000" />
+      <workItem from="1591843239758" duration="703000" />
+      <workItem from="1591856984660" duration="6160000" />
+      <workItem from="1591871555829" duration="7350000" />
+      <workItem from="1591884752114" duration="1415000" />
+      <workItem from="1591936634021" duration="7037000" />
+      <workItem from="1591957603755" duration="3090000" />
+      <workItem from="1592025574141" duration="844000" />
+      <workItem from="1592029309828" duration="323000" />
+      <workItem from="1592029787880" duration="4110000" />
+      <workItem from="1592118626600" duration="1551000" />
+      <workItem from="1592122830519" duration="1685000" />
+      <workItem from="1592131005150" duration="2560000" />
+      <workItem from="1592133597797" duration="2545000" />
+      <workItem from="1592142432603" duration="5400000" />
+      <workItem from="1592281751194" duration="7758000" />
+      <workItem from="1592302503755" duration="3871000" />
+      <workItem from="1592369940693" duration="2384000" />
+      <workItem from="1592372370603" duration="343000" />
+      <workItem from="1592372746397" duration="276000" />
+      <workItem from="1592373060172" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="29" width="1280" height="1049" key="#Project_Structure" timestamp="1591843317034">
+      <screen x="67" y="29" width="1853" height="1051" />
+    </state>
+    <state x="347" y="29" width="1280" height="1049" key="#Project_Structure/67.29.1853.1051@67.29.1853.1051" timestamp="1591843317033" />
+    <state x="754" y="194" width="468" height="718" key="#com.intellij.ide.util.MemberChooser" timestamp="1591858987289">
+      <screen x="67" y="29" width="1853" height="1051" />
+    </state>
+    <state x="754" y="194" width="468" height="718" key="#com.intellij.ide.util.MemberChooser/67.29.1853.1051@67.29.1853.1051" timestamp="1591858987289" />
+    <state x="723" y="254" width="530" height="598" key="FileChooserDialogImpl" timestamp="1592025629944">
+      <screen x="67" y="29" width="1853" height="1051" />
+    </state>
+    <state x="723" y="254" width="530" height="598" key="FileChooserDialogImpl/67.29.1853.1051@67.29.1853.1051" timestamp="1592025629944" />
+    <state x="807" y="432" width="373" height="353" key="Github.ShareDialog" timestamp="1592373078769">
+      <screen x="67" y="29" width="1853" height="1051" />
+    </state>
+    <state x="807" y="432" width="373" height="353" key="Github.ShareDialog/67.29.1853.1051@67.29.1853.1051" timestamp="1592373078769" />
+    <state x="524" y="196" width="929" height="715" key="Github.UntrackedFilesDialog" timestamp="1592371141255">
+      <screen x="67" y="29" width="1853" height="1051" />
+    </state>
+    <state x="524" y="196" width="929" height="715" key="Github.UntrackedFilesDialog/67.29.1853.1051@67.29.1853.1051" timestamp="1592371141255" />
+    <state x="348" y="29" width="1280" height="1049" key="SettingsEditor" timestamp="1592136095966">
+      <screen x="67" y="29" width="1853" height="1051" />
+    </state>
+    <state x="348" y="29" width="1280" height="1049" key="SettingsEditor/67.29.1853.1051@67.29.1853.1051" timestamp="1592136095966" />
+    <state x="573" y="22" width="838" height="1032" key="search.everywhere.popup" timestamp="1591875748063">
+      <screen x="67" y="29" width="1853" height="1051" />
+    </state>
+    <state x="573" y="22" width="838" height="1032" key="search.everywhere.popup/67.29.1853.1051@67.29.1853.1051" timestamp="1591875748063" />
+  </component>
+</project>
