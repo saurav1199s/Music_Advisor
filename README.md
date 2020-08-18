@@ -1,2 +1,5 @@
 # Music_Advisor
-It is a web api that fetches info about featured playlists, new albums, categories etc. on users request. It uses spotify restful api.
+A personal music advisor that makes preference-
+based suggestions and even shares links to new
+releases and featured playlists.
+It uses spotify's REST api.
